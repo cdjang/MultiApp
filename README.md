@@ -12,6 +12,8 @@ File - Settings - Version Control GitHub
 Authorization Type should be changed to Password
 Host GitHub 
 VCS - Git contains all instructions for the Repository
+If unable to connect, Go into Kaspersky Security Settings
+and disable the Web Anti-Virus Temporarily so you can commit/push
 
 # Author
 Caleb Jang - Multi-App
