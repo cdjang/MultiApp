@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MultiApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="TITLE_HOME">Multi-App</string>
+    <string name="DESCRPTION_HOME">What would you like to do:</string>
+
+    <!--Items for the spinner on the home page-->
+    <string-array name="spinnerItems">
+        <item>Duel Calculator</item>
+        <item>Night Mode</item>
+        <item>Weather</item>
+        <item>Facebook</item>
+        <item>Database</item>
+        <item>Workout</item>
+    </string-array>
+
+    <!--Items for the fragments involving Pizza Orders-->
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+
+
+    <string name="title_activity_duel__calculator">Duel_Calculator</string>
+    <string name="title_activity_profile__page">Profile_Page</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_test">test</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_help__page">Help_Page</string>
+    <string name="title_activity_night__mode">Night_Mode</string>
+    <string name="facebook_app_id">344448663023166</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="TITLECOLOR_HOME">#a01030ba</color>
+    <color name="HOME_BACKGROUND_COLOR">#86d9ed</color>
+    <color name="DESCRIPTIONCOLOR_HOME">#a01030ba</color>
+    <color name="BUTTONCOLOR_HOME">#a01030ba</color>
+
+
+    <!-- 1st Gradient color -->
+    <color name="colorPurple_A400">#D500F9</color>
+    <color name="colorPurple_900">#4A148C</color>
+    <!-- ./ 1st Gradient color -->
+
+</resources>
