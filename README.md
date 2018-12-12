@@ -9,14 +9,20 @@ This allows the user to access a spinner and choose which activity they want
 
 # Connecting to GitHub
 File - Settings - Version Control GitHub
+
 Authorization Type should be changed to Password
+
 Host GitHub 
+
 VCS - Git contains all instructions for the Repository
+
 
 # Kaspersky Complications
 If unable to connect, Go into Kaspersky Security Settings
 and disable the Web Anti-Virus Temporarily so you can commit/push
+
 -OR-
+
 Add the Kaspersky Certificate into the Ca-Bundle Certificate
 by first going into Kaspersky:
 
