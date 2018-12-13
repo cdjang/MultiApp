@@ -62,7 +62,9 @@
             android:label="Database" />
         <activity android:name=".Workout_Page" />
         <activity android:name=".Workout_Details_Page" />
-        <activity android:name=".Pizza_Page"></activity>
+        <activity android:name=".Pizza_Page" />
+        <activity android:name=".PagerAdapter" />
+        <activity android:name=".Tabs_Page"></activity>
     </application>
 
 </manifest>

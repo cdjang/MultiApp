@@ -12,22 +12,8 @@
         <item>Facebook</item>
         <item>Database</item>
         <item>Workout</item>
+        <item>Tabs</item>
     </string-array>
-
-    <!--Items for the fragments involving Pizza Orders-->
-    <string-array name="pizzas">
-        <item>Diavolo</item>
-        <item>Funghi</item>
-    </string-array>
-    <string-array name="pasta">
-        <item>Spaghetti Bolognese</item>
-        <item>Lasagne</item>
-    </string-array>
-    <string-array name="stores">
-        <item>Cambridge</item>
-        <item>Sebastopol</item>
-    </string-array>
-
 
     <string name="title_activity_duel__calculator">Duel_Calculator</string>
     <string name="title_activity_profile__page">Profile_Page</string>
