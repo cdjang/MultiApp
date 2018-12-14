@@ -130,6 +130,9 @@ public class Home_Page extends AppCompatActivity {
                 }else if (spinnerText.equals("Tabs")){
                     Intent intent = new Intent(v.getContext(), Tabs_Page.class);
                     startActivity(intent);
+                }else if (spinnerText.equals("Login")){
+                    Intent intent = new Intent(v.getContext(), LoginActivity.class);
+                    startActivity(intent);
                 }else if (spinnerText.equals("Weather")){
                 Intent intent = new Intent(v.getContext(), Weather_Page.class);
                 startActivity(intent);

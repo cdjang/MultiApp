@@ -64,7 +64,25 @@
         <activity android:name=".Workout_Details_Page" />
         <activity android:name=".Pizza_Page" />
         <activity android:name=".PagerAdapter" />
-        <activity android:name=".Tabs_Page"></activity>
+        <activity android:name=".Tabs_Page" />
+        <activity android:name=".SQLiteHelper" />
+        <activity android:name=".User" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+
     </application>
 
 </manifest>
